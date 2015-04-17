@@ -8,4 +8,7 @@ public class ProbandoMetodos {
 	public void hola() {
 		System.out.println("Hola gente");
 	}
+	public void adios(){
+		System.out.println("Adios");
+	}
 }
