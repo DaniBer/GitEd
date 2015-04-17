@@ -17,5 +17,7 @@ public class ProbandoMetodos {
 	public void prueba2(){
 		System.out.println("VAMOS");
 	}
-	
+	public void prueba3(){
+		System.out.println("¿y ahora que?");
+	}
 }
