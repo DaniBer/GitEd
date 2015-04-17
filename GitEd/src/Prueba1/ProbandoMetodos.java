@@ -11,4 +11,11 @@ public class ProbandoMetodos {
 	public void adios(){
 		System.out.println("Adios");
 	}
+	public void prueba(){
+		System.out.println("Esto es una prueba de ramas");
+	}
+	public void prueba2(){
+		System.out.println("VAMOS");
+	}
+	
 }
