@@ -18,6 +18,6 @@ public class ProbandoMetodos {
 		System.out.println("VAMOS");
 	}
 	public void prueba3(){
-		System.out.println("¿y ahora que?");
+		System.out.println("Aprobaremos?");
 	}
 }
