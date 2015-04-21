@@ -20,5 +20,8 @@ public class ProbandoMetodos {
 	public void rama2(){
 		System.out.println("Esta es la rama nueva creada");
 	}
+	public void rama3(){
+		System.out.println("rama3");
+	}
 	
 }
