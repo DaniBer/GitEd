@@ -14,4 +14,9 @@ public class ProbandoMetodos2 {
 	public void god(){
 		System.out.println("Esto es una broma");
 	}
+	public void jesuz3(){
+		System.out.println("Esto es un joke");
+	}
+	
+	
 }
